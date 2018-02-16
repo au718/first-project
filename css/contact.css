@@ -1,0 +1,13 @@
+body {
+    font-family: 'Mukta Mahee', sans-serif;
+}
+
+.contact-column {
+        width: 50%;
+        text-align: center;
+        float: left;
+}
+
+.form-container {
+    width: 50%;
+}
